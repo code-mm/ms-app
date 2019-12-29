@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aui="http://schemas.android.com/apk/res/com.alipay.mobile.antui"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="功能测试"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/buttonToast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="吐司" />
+
+        <Button
+            android:id="@+id/aButtonToast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="mpaas吐司" />
+
+        <Button
+            android:id="@+id/aButtonScan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="扫一扫" />
+
+        <Button
+            android:id="@+id/buttonTag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="设备唯一标识" />
+
+
+        <Button
+            android:text="发布"
+            android:id="@+id/buttonRelease"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+        <Button
+            android:id="@+id/buttonHotFix"
+            android:text="热修复"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+
+        <TextView
+            android:id="@+id/textViewRSocketRes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <Button
+            android:id="@+id/buttonRSocket"
+            android:text="测试RSOCKET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <Button
+            android:id="@+id/buttonRSocketJS"
+            android:text="测试RSOCKET-JS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

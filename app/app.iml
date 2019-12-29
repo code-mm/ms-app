@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.0.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.0.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/maohuawei/project/android/mpaas/ms-app/app/src/debug/java;/Users/maohuawei/project/android/mpaas/ms-app/app/src/release/kotlin;/Users/maohuawei/project/android/mpaas/ms-app/app/src/release/java;/Users/maohuawei/project/android/mpaas/ms-app/app/src/debugAndroidTest/kotlin;/Users/maohuawei/project/android/mpaas/ms-app/app/src/debugUnitTest/kotlin;/Users/maohuawei/project/android/mpaas/ms-app/app/src/releaseUnitTest/kotlin">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multidex-18.0.0.aar/b610aae40802bac0207a296529ba9039/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.adapter/metainfo/1.0.0.190819190628/659c80374d1e95fe66e45cb59369c90c9e6cfe6d/metainfo-1.0.0.190819190628-api.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/04f2955883e9cb1466ebdc79f9f871b9/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.9.1/36e71ab9e903fc4d1b4a58d80572a91d9fd60caf/logging-interceptor-3.9.1.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.5.0/928e129ee8a07ab97270523c48eec85ca16b4e3a/adapter-rxjava2-2.5.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.5.0/713ce36037bf24a76a3974c05cb85c3f754b1cc3/retrofit-2.5.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54/okhttp-3.12.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/689182ff5ae6a1f572e3980c1b61e28a/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.1.aar/68342f02d5232b0100d73306f5d861f3/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/afd2ab255e6b94b064ea87c2ccd84ac0d163a427/rxjava-2.1.9.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/92ad86aca210e35a73a082884319dcb8/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7820201fc36013a2e50400542285974c/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f89ed925115bc61a1016b27602633c30/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/43fbb1b38439313fd9b65f1dbe2eeed9/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6d2be050ab1cdef4592719df0334ff8c/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7875e9edc8520b55f9adee28009a5ce8/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/00a7f1b16670353d779aec890a17f021/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bda171d467b600bd9046e0a1bbca4092/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/495e8f287b530fbc8773cbcd50b800b8/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.rsocket/rsocket-transport-netty/0.10.3/296d5c0a114925689eeacfbb08630dffaa376b0f/rsocket-transport-netty-0.10.3.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.rsocket/rsocket-core/0.10.3/fdf6d176b2471acc9383e819b8c9d63a07d5efe0/rsocket-core-0.10.3.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/threetenabp-1.0.5.aar/dc7f8e8c06987f535016b0a27df77d9a/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c0ceecc8b8397b398ed16675cbdb621b/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/21d2d6dfa84d7f775df162fb7739db44/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5dc53aac1773426ad5cb64421c8d72f/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ebbd611bf8866bcbb64ef6364bcb3adf/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/09acdef88c9a59f059c5792a33fcec75/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ae7f124df66f13ebe471459959beb397/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e42f712418007cb6f7ad98b750d08803/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d8ffe791c7045a7fe4b939d957f1014e/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f52ac1f6b9f28ffabe98daf7aaadb3f/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76e50a4233f1e5db3982c066b1278d91/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a390231164c490e92a2495b9e26293aa/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8847ec4f5bd0e9b29ea02e9fb54c5cfc/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/894dd8116ffe135b6f19ba750e1168a5/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc7716b445edf1ea1fefabb662f9d39e/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.1.1/8094cc50760b9ac665a8ea76b51888f70042e2b5/common-1.1.1.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/035f690045cb305da4b41e340b4fce99/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/4090cb8af804a9e97b224dd766a4439d/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ee46368e5e7197c4ce8a2e3ded9301cd/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07f83c64813de4b9260ad3789e0ae2e5/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/09702421f9b5bee293c5da46fa412167/jars/classes.jar:/Users/maohuawei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e887ebc7c92fac564d48a4ce95cf3aa/jars/classes.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.framework.adapter/mpaasadapter-build/1.0.0.1812031248/a61bb745d22c0de3afdd3b051299f2689556d2ef/mpaasadapter-build-1.0.0.1812031248-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/logging-build/2.1.0.191217120619/cdf45eac5899be166429336fda49ebea6e191039/logging-build-2.1.0.191217120619-util.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/logging-build/2.1.0.191217120619/b6692483034392eeb8e79d93cdd51931e77a8a20/logging-build-2.1.0.191217120619-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/logging-build/2.1.0.191217120619/a9993651106924ccc1aae9f9b7a1d45a5ba2a3a4/logging-build-2.1.0.191217120619-tianyan.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/antui-build/10.1.50.190806221819/26e5688fb538c4f3d9d8aa59dec40dadc51200f1/antui-build-10.1.50.190806221819-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.mpaasadapter/mpaasadapter-build/1.0.0.191106153924/e213ddafcdf6e2b33b2e0801f78bcbd5e407986b/mpaasadapter-build-1.0.0.191106153924-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/wire-build/1.5.3.190214191738/e3d2c38786d7925bc84f0c9978bdb61b33a7a057/wire-build-1.5.3.190214191738-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/fastjson-build/1.1.70.190213120120/e544079503c9cabe4ddf6ba5becc2912fc973369/fastjson-build-1.1.70.190213120120-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/framework-build/2.6.2.191212190259/aff4e13fcd8e317f725bb1868da7c1f0bad88e78/framework-build-2.6.2.191212190259-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/lbs-build/1.9.0.191204103032/da29a3a7df09dbd9f8a8262dbd40dea12164d73b/lbs-build-1.9.0.191204103032-biz.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/lbs-build/1.9.0.191204103032/5e819426cc86c07026f358142e7db42956a1427e/lbs-build-1.9.0.191204103032-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/lbs-build/1.9.0.191204103032/c6bcfea04998d29b76ceae5824a1b574114f5fea/lbs-build-1.9.0.191204103032-core.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/commonbizservice-build/1.7.0.191128185403/d65b5ed3544038e04665fb2814475cc250cbefb0/commonbizservice-build-1.7.0.191128185403-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.mas.adapter/mpaasmasadapter-build/1.2.0.191114122839/f93a612bc1301fa80f176669acccb34ed0071cd9/mpaasmasadapter-build-1.2.0.191114122839-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.securitycommon/aliupgrade-build/1.0.0.191106153924/d1edcc89fa9ece384e78db8c3b757f534c41db43/aliupgrade-build-1.0.0.191106153924-rpc.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.securitycommon/aliupgrade-build/1.0.0.191106153924/6a9ec87c4882b24d832e7f985f1ec5656804833a/aliupgrade-build-1.0.0.191106153924-common.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.securitycommon/aliupgrade-build/1.0.0.191106153924/9128eb7b0f7524629edbc3664c185f0ecce6df52/aliupgrade-build-1.0.0.191106153924-ui.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/quinox-build/2.6.2.190909193910/8ec231b9b4a10cae872b5b3d3af87b5588e44c33/quinox-build-2.6.2.190909193910-util.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/quinox-build/2.6.2.190909193910/6feb3e91e8aa229c9e2feb0476712f7c2e6327fb/quinox-build-2.6.2.190909193910-multidex.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/quinox-build/2.6.2.190909193910/756b11fc3d144faacd323b37c79e4080a7de4393/quinox-build-2.6.2.190909193910-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/quinox-build/2.6.2.190909193910/f47385a5458445c8a9c557d18ba0ee9947bd7922/quinox-build-2.6.2.190909193910-core.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/autotracker-build/1.0.0.190909193811/bb735b9dce79a3a191fa83b89a8bf09d5e0cbae8/autotracker-build-1.0.0.190909193811-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/utdid-build/2.1.1.190719132554/3815dd9ab316dc1548a7e74cc6aeb63606c631d9/utdid-build-2.1.1.190719132554-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/transport-build/1.8.5.190729124755/607a8131ece02327b8d5543dfd0c8958d32200be/transport-build-1.8.5.190729124755-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/storage-build/1.7.0.190615004747/fb7df3b81e7710fae92a5a85ca3f98ada0ea46f4/storage-build-1.7.0.190615004747-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/rpc-build/1.8.5.191206152900/f721722d4a96600086e5cccfd5a2acf1e73c7099/rpc-build-1.8.5.191206152900-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/nebulauc-build/1.6.0.191112172354/bb532156bc5f34307a77f99ecb37939bf7a01869/nebulauc-build-1.6.0.191112172354-ui.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/nebulauc-build/1.6.0.191112172354/c68f8346dbaadbcb36f677de98db5938e0c4f11a/nebulauc-build-1.6.0.191112172354-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/monitor-build/2.1.4.190909193811/2432b3846497288ec6da7270ae3a6e01aa4aaca5/monitor-build-2.1.4.190909193811-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/commonservice-build/1.9.0.190617145454/a8763fbf1d44cef100681bd502d338e385d55245/commonservice-build-1.9.0.190617145454-loader.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/commonservice-build/1.9.0.190617145454/dd4e26a1ed91fdac8dab172785eb6f665b53610b/commonservice-build-1.9.0.190617145454-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.sync/syncservice-build/2.0.0.190918140838/12a6d28e6b678cc492d998548d47315d393db532/syncservice-build-2.0.0.190918140838-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/netsdkextdependapi-build/1.0.1.190620165649/73c130aa5aa0452a951ea5883e46630b773f2c6d/netsdkextdependapi-build-1.0.1.190620165649-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/nebula-build/1.6.2.191218100944/5dc9f63a73b425f9d305b288ecc876c7e25d1fc5/nebula-build-1.6.2.191218100944-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/scanexport-build/1.3.3.190917132246/bb099f9d4637a77b5f0a3e8e43299e8a51735b19/scanexport-build-1.3.3.190917132246-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.mobile/nebulakernel-build/1.0.0.190320163137/a3fea1405cc5573505628d6ca912ea54d8c0321b/nebulakernel-build-1.0.0.190320163137-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/securityguard-build/5.4.2008.190619203930/8555aa43fbf8e8eb61575291ec5d688cc8cf7cd5/securityguard-build-5.4.2008.190619203930-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/aspect-build/1.4.1.190615004747/82bdad7a5117b1a5700c077b8ebad905a55716c0/aspect-build-1.4.1.190615004747-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/dynamicrelease-build/2.5.7.191212190312/ad69370cf86b6491d70e95ee5a254cc17d34a7fb/dynamicrelease-build-2.5.7.191212190312-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.multimedia/xmedia-build/1.0.0.191120100744/5afd2918d1ad7ce9754fd7418414ec09c6401ea1/xmedia-build-1.0.0.191120100744-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/multimedia-build/1.19.0.190618154720/2d01d58f1e3de7386f540565a9aa9aeaacbdc3b5/multimedia-build-1.19.0.190618154720-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/androidannotations-build/9.6.6.190117113007/7ac47320912647bafe4fc0e3aee84088ea81b0b4/androidannotations-build-9.6.6.190117113007-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.mobile/nebulaengine-build/1.0.0.190320164108/e201f257a6b0f03614cceffa8a2e5e8d52469418/nebulaengine-build-1.0.0.190320164108-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/adaptermap-build/1.0.0.190916095041/f4d86815cbe57f9c94a3a99f4b284c867144d2c7/adaptermap-build-1.0.0.190916095041-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.thirdparty/amap3dmap-build/3.3.3.190617171651/b5533f6dc1a4c09538e3219ee1151faed4b1175b/amap3dmap-build-3.3.3.190617171651-api3d.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.scancode/mascanengine-build/2.0.0.191213175501/37aed0f41b4b1ccf4350e61f5421238514ad55a4/mascanengine-build-2.0.0.191213175501-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/beephoto-build/1.0.0.191128111526/ef52a4d26bb26bc074583ab67ffaed3ac11e7c8d/beephoto-build-1.0.0.191128111526-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.scancode/bqcscanservice-build/2.0.0.190614161717/f4dcf7f939a2c73d80e7ad14cd6c4a35b988059f/bqcscanservice-build-2.0.0.190614161717-kernel.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.scancode/bqcscanservice-build/2.0.0.190614161717/6867051998f597ce202038b0fc34aebd39160a00/bqcscanservice-build-2.0.0.190614161717-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/xnn-build/1.0.0.191120102458/c7aa0af78bef22bfc254d0d2f9d210ccfda7e62c/xnn-build-1.0.0.191120102458-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/beehive-build/10.1.50.190618163556/d9682b07ab96d1bf6a47a77cb3d09d5cc6b30e5f/beehive-build-10.1.50.190618163556-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/falcon-build/1.6.41.190618154720/6609b0105d9e1adc78f9a77e2e12c672641e4e53/falcon-build-1.6.41.190618154720-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/beecapture-build/1.0.0.190618163556/7a0d00a26ec41918aeae10e6340e5b04fa5cb8aa/beecapture-build-1.0.0.190618163556-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/beeimageedit-build/1.0.0.190618163556/a1cc4a3045ee145aea042ebf5d146f06ced74f0e/beeimageedit-build-1.0.0.190618163556-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/multimediaext-build/1.11.0.190213143714/87acffa2a3e99485d1c55661b07923351ccfc996/multimediaext-build-1.11.0.190213143714-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.multimedia/apwidget-build/1.19.0.190806101607/3343c358b3cf521ac4385dcac45c93cd646228c5/apwidget-build-1.19.0.190806101607-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilecommon/falconlooks-build/1.6.64.190618154720/1084a216eda08aad58e94015a3d1e91876218407/falconlooks-build-1.6.64.190618154720-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.framework.adapter/mpaasframeworkadapter-build/1.0.0.190906163910/e4b08e77feb45c19b4386c4de730a58b2542550b/mpaasframeworkadapter-build-1.0.0.190906163910-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/netsdkextdepend-build/1.0.2.190918140838/6981ea935d95f2f96e1b28695e79e27db1a9e7ab/netsdkextdepend-build-1.0.2.190918140838-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.hotpatch.adapter/mpaashotpatchadapter-build/1.0.0.190318123822/bc7b7fd8145d2153b4a9d8e41abd3b7ec37ac94a/mpaashotpatchadapter-build-1.0.0.190318123822-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.wallet/spmtracker-build/1.0.0.190614154816/be700f8cff519a9bc4047857898eb396ff87aafa/spmtracker-build-1.0.0.190614154816-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/nbnet/1.1.6.190620201701/7b9ce05b7bd169d1dbad21ed1e387e555fae34ef/nbnet-1.1.6.190620201701-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.nebula.adapter/mpaasnebulaadapter-build/10.1.60.191220162409/194d2c9582043b3c4529ccd47576cd971af3066c/mpaasnebulaadapter-build-10.1.60.191220162409-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.mpaas.mpush.thirdparty.huawei/huawei-build/1.0.0.190627151946/1aee5d886d6a393c315e6fca9dca6d3b1114c750/huawei-build-1.0.0.190627151946-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.rome/pushsdk-build/2.4.0.191217153020/a42e40d4ff5edb72664c9c22f4134fe638d40f3c/pushsdk-build-2.4.0.191217153020-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.rome/pushsdk-build/2.4.0.191217153020/ac40a2e65f0bd9b9020e0dacdb08ffdb07f3fb18/pushsdk-build-2.4.0.191217153020-longlink.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.mps.adapter/mpaasmpsadapter-build/1.0.0.191217153020/c70401282b97c64a07bdcb495c41468fb6397597/mpaasmpsadapter-build-1.0.0.191217153020-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.alipay.android.phone.mobilesdk/crypto-build/1.0.1.190214192446/704229ba5d0ead8e72ef43180ca3663ef0c121d9/crypto-build-1.0.1.190214192446-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.mgs.adapter/mpaasmgsadapter-build/1.0.0.190716125542/27d7fdb7b2f831f7e5bad808e8aacca0d7885bad/mpaasmgsadapter-build-1.0.0.190716125542-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.configservice.adapter/mpaasconfigserviceadapter-build/1.0.0.190313170150/13affae4d4c9461952921fd71b9bb0f7702dd8f/mpaasconfigserviceadapter-build-1.0.0.190313170150-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.mpaas.plus/plus-build/10.1.60.191209133353/ac7252254df824314418764f7bd7531d28fa05ee/plus-build-10.1.60.191209133353-api.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.projectreactor.ipc/reactor-netty/0.7.3.RELEASE/5815b8be295c828486201f9c433648351f05a11/reactor-netty-0.7.3.RELEASE.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.1.3.RELEASE/ca04584098c515657db3b58a09a0532b2341e13b/reactor-core-3.1.3.RELEASE.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.20.Final/e8e548c1a032adb40d9ea785b0bccccc2df54e13/netty-handler-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.20.Final/a4d2caa35c7a5ba9c45ca81770852384934aeb60/netty-transport-native-epoll-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.20.Final/7c32216f081bada9142b78e1d428d4e1750dc207/netty-handler-proxy-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.20.Final/5f45dca168c6161ff156be3f5d8f1eb60e160bd9/netty-codec-http-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.20.Final/7dddd0c26b1bac90b2249c4c0c8f153e864c4432/netty-codec-socks-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.20.Final/285cec1c043c84d571ae286d87a809d72917eea7/netty-codec-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.20.Final/1b1d5858b9d008d264de45eef597f8064d34da79/netty-transport-native-unix-common-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.20.Final/77c8a5294261758dbca7b7928b2ebc02658f2feb/netty-transport-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.20.Final/e277a521cda3997c322e6c761aa09bc9b1eaa43a/netty-buffer-4.1.20.Final.jar:/Users/maohuawei/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/309242e12648832e7fd9cf253646aec27b3827a0/threetenbp-1.3.3-no-tzdb.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.20.Final/27aad5a68e183a0215b5d66b3bfd47a315ec4ca7/netty-resolver-4.1.20.Final.jar:/Users/maohuawei/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.20.Final/705196810d01600478731b52817739dbeaa9df61/netty-common-4.1.20.Final.jar:/Users/maohuawei/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.10/b714dd6deb5282a6545e4183d9270860a171f08e/kotlin-android-extensions-1.3.10.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/mpaas-sources/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aar_hook/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/mpaas-yw/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.mpaas.adapter:metainfo:1.0.0.190819190628:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:logging-interceptor:3.9.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:converter-gson:2.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:adapter-rxjava2:2.5.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:retrofit:2.5.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.rsocket:rsocket-transport-netty:0.10.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.rsocket:rsocket-core:0.10.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:collections:28.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence.room:common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:28.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.framework.adapter:mpaasadapter-build:1.0.0.1812031248:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.191217120619:util@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.191217120619:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.191217120619:tianyan@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:antui-build:10.1.50.190806221819:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.mpaasadapter:mpaasadapter-build:1.0.0.191106153924:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:wire-build:1.5.3.190214191738:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:fastjson-build:1.1.70.190213120120:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:framework-build:2.6.2.191212190259:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:lbs-build:1.9.0.191204103032:biz@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:lbs-build:1.9.0.191204103032:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:lbs-build:1.9.0.191204103032:core@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:commonbizservice-build:1.7.0.191128185403:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.mas.adapter:mpaasmasadapter-build:1.2.0.191114122839:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.securitycommon:aliupgrade-build:1.0.0.191106153924:rpc@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.securitycommon:aliupgrade-build:1.0.0.191106153924:common@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.securitycommon:aliupgrade-build:1.0.0.191106153924:ui@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.190909193910:util@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.190909193910:multidex@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.190909193910:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.190909193910:core@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:autotracker-build:1.0.0.190909193811:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:utdid-build:2.1.1.190719132554:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:transport-build:1.8.5.190729124755:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:storage-build:1.7.0.190615004747:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:rpc-build:1.8.5.191206152900:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:nebulauc-build:1.6.0.191112172354:ui@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:nebulauc-build:1.6.0.191112172354:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:monitor-build:2.1.4.190909193811:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:commonservice-build:1.9.0.190617145454:loader@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:commonservice-build:1.9.0.190617145454:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.sync:syncservice-build:2.0.0.190918140838:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:netsdkextdependapi-build:1.0.1.190620165649:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:nebula-build:1.6.2.191218100944:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:scanexport-build:1.3.3.190917132246:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.mobile:nebulakernel-build:1.0.0.190320163137:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:securityguard-build:5.4.2008.190619203930:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:aspect-build:1.4.1.190615004747:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:dynamicrelease-build:2.5.7.191212190312:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.multimedia:xmedia-build:1.0.0.191120100744:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:multimedia-build:1.19.0.190618154720:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:androidannotations-build:9.6.6.190117113007:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.mobile:nebulaengine-build:1.0.0.190320164108:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:adaptermap-build:1.0.0.190916095041:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:amap3dmap-build:3.3.3.190617171651:api3d@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.scancode:mascanengine-build:2.0.0.191213175501:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:beephoto-build:1.0.0.191128111526:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.scancode:bqcscanservice-build:2.0.0.190614161717:kernel@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.scancode:bqcscanservice-build:2.0.0.190614161717:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:xnn-build:1.0.0.191120102458:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:beehive-build:10.1.50.190618163556:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:falcon-build:1.6.41.190618154720:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:beecapture-build:1.0.0.190618163556:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:beeimageedit-build:1.0.0.190618163556:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:multimediaext-build:1.11.0.190213143714:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.multimedia:apwidget-build:1.19.0.190806101607:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilecommon:falconlooks-build:1.6.64.190618154720:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.framework.adapter:mpaasframeworkadapter-build:1.0.0.190906163910:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:netsdkextdepend-build:1.0.2.190918140838:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.hotpatch.adapter:mpaashotpatchadapter-build:1.0.0.190318123822:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:spmtracker-build:1.0.0.190614154816:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:nbnet:1.1.6.190620201701:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.nebula.adapter:mpaasnebulaadapter-build:10.1.60.191220162409:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.mpaas.mpush.thirdparty.huawei:huawei-build:1.0.0.190627151946:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.rome:pushsdk-build:2.4.0.191217153020:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.rome:pushsdk-build:2.4.0.191217153020:longlink@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.mps.adapter:mpaasmpsadapter-build:1.0.0.191217153020:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:crypto-build:1.0.1.190214192446:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.mgs.adapter:mpaasmgsadapter-build:1.0.0.190716125542:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.configservice.adapter:mpaasconfigserviceadapter-build:1.0.0.190313170150:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.plus:plus-build:10.1.60.191209133353:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.15.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.ipc:reactor-netty:0.7.3.RELEASE@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor:reactor-core:3.1.3.RELEASE@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.threeten:threetenbp:1.3.3:no-tzdb@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.20.Final@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:multidex:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxandroid:2.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence.room:rxjava2:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:extensions:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence.room:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:loader:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:viewmodel:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.jakewharton.threetenabp:threetenabp:1.0.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:viewpager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:coordinatorlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:drawerlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:slidingpanelayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:customview:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:swiperefreshlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:versionedparcelable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:cursoradapter:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence:db-framework:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence:db:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:interpolator:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:documentfile:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:print:28.0.0@aar" level="project" />
+  </component>
+</module>
